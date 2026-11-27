@@ -34,7 +34,7 @@ Displays a personalised "Hello World" screen with a dark background:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MarcondezVictor/HelloWorld-Android.git
+   git clone https://github.com/MarcondezVictor/hello-world-android.git
    ```
 2. Open the folder in **Android Studio** and wait for the Gradle sync.
 3. Select an emulator or a connected device and press **Run ▶**.
